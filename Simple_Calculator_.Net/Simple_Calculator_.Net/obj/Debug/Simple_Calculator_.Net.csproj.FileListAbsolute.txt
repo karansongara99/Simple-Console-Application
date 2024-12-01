@@ -1,0 +1,7 @@
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\bin\Debug\Simple_Calculator_.Net.exe.config
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\bin\Debug\Simple_Calculator_.Net.exe
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\bin\Debug\Simple_Calculator_.Net.pdb
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\obj\Debug\Simple_Calculator_.Net.csproj.AssemblyReference.cache
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\obj\Debug\Simple_Calculator_.Net.csproj.CoreCompileInputs.cache
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\obj\Debug\Simple_Calculator_.Net.exe
+C:\Users\karan\OneDrive\Desktop\Demo\Simple_Calculator_.Net\Simple_Calculator_.Net\obj\Debug\Simple_Calculator_.Net.pdb
